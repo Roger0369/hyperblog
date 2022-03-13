@@ -2,8 +2,10 @@ Esto es un nuevo documento que va a
 servir para conocer el funcionamiento de git
 I am 33 years old
 
-Hoy hablaremos de su vida y obra maestra.
+Hoy hablaremos de su vida.
 
 En camara parece alto pero en verdad no es tan alto.
 
 Hoy es el CEO de Platzi.
+
+Manana nos enfocaremos en su vida laboral
